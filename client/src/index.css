@@ -1,0 +1,33 @@
+* {
+  background-color: #C5EDFC;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px 20px 25px 10px;
+  border-bottom: 1px solid black;
+  background-color: white;
+}
+
+.form {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.submitButton {
+  margin: 10px 0 0 0;
+}
+
+.todos {
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.deleteButton {
+  margin-left: 50px;
+}
+
+
